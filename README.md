@@ -1,6 +1,7 @@
 # spine-scoliosis-prevention
-# 参与大模型实战营 GitHub 仓库（https://github.com/InternLM/Tutorial）
-# 中学生脊柱侧弯预干预模型
+# 基于 InternLM 的 中学生脊柱侧弯预干预模型 项目，
+# 欢迎大家也来参加书生大模型实战营项目（http://github.com/internLM/tutorial）
+
 
 本项目旨在通过大数据和机器学习技术构建一个中学生脊柱侧弯预干预模型，帮助学校和家长及时发现和干预中学生脊柱侧弯问题。项目不仅能识别和预测脊柱侧弯风险，还能提供个性化的预防和干预建议，为学生的健康成长保驾护航![Overview Image](images/overview.png)
 ## 项目介绍
